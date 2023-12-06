@@ -1,0 +1,60 @@
+.header{
+    height: 12vh;
+    width: 77vw;
+    background-color: #fff;
+    margin-left: 21vw;
+    border-radius: 2vh;
+}
+.header input{
+    height: 7vh;
+    width: 30vw;
+    margin-top: 2.5vh;
+    margin-left: -45vw;
+    border-radius: 4vh;
+    background-color: #f1f1f1;
+    padding: 10px;
+}
+.date{
+    height: 5vh;
+    width: 20vw;
+    margin-left: 55vw;
+    margin-top: -8vh;
+}
+.middle{
+    height: 80vh;
+    width: 77vw;
+    background-color: #fff;
+    margin-left: 21vw;
+    border-radius: 2vh;
+    margin-top: 3vh;
+}
+.flex-div{
+   float: right;
+   display: flex;
+   margin-top: -10vh;
+   padding-right: 20px;
+}
+.flex-div .middle-second{
+    margin-right: 10vh;
+}
+.flex-div .middle-third{
+    margin-right: 10vh;
+}
+
+.button button{
+    background-color: black;
+    color: white;
+    padding: 1vh;
+    border-radius: 1vh;
+    margin-top: 4vh;
+}
+.middle-first{
+    width: 20vw;
+    position: relative;
+    top: 1vh;
+    left: 2vh;
+    
+}
+.hr{
+    margin-top: 5vh;
+}
